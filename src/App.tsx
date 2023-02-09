@@ -7,7 +7,6 @@ import Navigation from "./components/Navigation";
 function App() {
   return (
       <>
-          {/*59.22*/}
           <Navigation />
           <Routes>
               <Route path='/' element={<HomePage/>} />
